@@ -1,0 +1,5 @@
+{'guid':'11', 'title': 'book1', 'isbn': '1212-1212', 'printyear': 1390, 'pages': 150, 'price': 2500.0, 'genres': 'roman', 'description': 'hi'}
+{'guid':'12', 'title': 'book2', 'isbn': '15-15', 'printyear': 1590, 'pages': 3600, 'price': 1235.0, 'genres': 'comady', 'description': ''}
+{'guid':'13', 'title': '65', 'isbn': '31', 'printyear': 65, 'pages': 321321, 'price': 65.0, 'genres': 'comady', 'description': '6546546\t'}
+{'guid':'14', 'title': '2', 'isbn': '2', 'printyear': 2, 'pages': 2, 'price': 2.0, 'genres': 'comady', 'description': '2\t\t'}
+{'guid':'15', 'title': '8', 'isbn': '8', 'printyear': 8, 'pages': 8, 'price': 8.0, 'genres': 'comady', 'description': ''}
